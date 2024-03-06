@@ -1,0 +1,48 @@
+# jemdoc: nomenu, nofooter  
+==Guangning Xu
+
+~~~
+{}{img_left}{photos/xuguangning.png}{alt text}{120}{160}
+a PhD candadian,\n [http://cs.hitsz.edu.cn/ Computer Science Department], \n[http://www.hitsz.edu.cn/index.html Harbin Institute of Technology, Shenzhen (HITSZ)]\n
+L Builing #1609 \n
+Harbin Institute of Technology, Shenzhen, Guangdong, China \n 
+E-mail: [mailto:20B951010@hit.stu.edu.cn 20B951010@hit.stu.edu.cn] \n
+~~~
+
+== About me
+I received the B.S. degree in software engineering from Jinggangshan University in 2013. I worked for International Business Machines (IBM), ShenZhen Corporation as a java application developer in 2013. 
+I received the M.Sc. degree in computer science from Harbin Institute of Technology, Shenzhen in 2018. Now, I am a PhD candadian in computer science from Harbin Institute of Technology, Shenzhen.
+
+== Education & Acadmic Experience
+- 2009 - 2013, Jinggangshan University, Software Engineering, Bachelor degree
+- 2018 - 2020, Harbin Institute of Technology, Shenzhen, Computer Science & Technology, Master degress, superived by Prof. [https://faculty.hitsz.edu.cn/yeyunming Yunming Ye]
+- 2023 - 2024, The University of Hong Kong, Research Assistant, superived by Prof. [https://www.math.hkbu.edu.hk/~mng/ Micheal.K.Ng]
+- 2020 - now, Harbin Institute of Technology, Shenzhen, Computer Science & Technology, Ph.D. student, superived by Prof. [https://faculty.hitsz.edu.cn/yeyunming Yunming Ye]
+
+== Research Interests
+- Spatio-Temporal Deep Learning 
+- Graph Neural Network
+- Machine Learning
+
+== Publications
+* Corresponding Author
+
+=== Journal Papers
+. *Guangning Xu*, Michael K Ng\*, Yunming Ye\*, Xutao Li, Ge Song, Bowen Zhang, Zhichao Huang. TLS-MWP: A Tensor-based Long- and Short-range Convolution for Multiple Weather Prediction. IEEE Transactions on Circuits and Systems for Video Technology, 2024. (JCR 1, CCF B, IF=8.4) \[[\# paper]\]\[[https://github.com/xuguangning1218/TLS_MWP code]\]
+. *Guangning Xu*, Yan Li\*; Chi Ma, Xutao Li, Yunming Ye, Qingquan Lin, Zhichao Huang, Shidong Chen. TFG-Net:Tropical Cyclone Intensity Estimation from a Fine-grained Perspective with the Graph Convolution Neural Network. Engineering Applications of Artificial Intelligence, 118, 105673, 2023. (JCR 1, CCF C, IF=7.802) \[[https://www.sciencedirect.com/science/article/pii/S0952197622006637 paper]\]\[[https://github.com/xuguangning1218/TI_Estimation code]\]
+. *Guangning Xu*, Xutao Li, Shanshan Feng, Yunming Ye\*, Zhihua Tu, Kenghong Lin, Zhichao Huang. LS-NTP: Unifying long- and short-range spatial correlations for near-surface temperature prediction. Neural Networks, 155, 242-257, 2022. (JCR 1, CCF B, IF=9.657) \[[https://www.sciencedirect.com/science/article/abs/pii/S0893608022002787 paper]\]\[[https://github.com/xuguangning1218/LS_NTP code]\]
+. *Guangning Xu*, Xian Di\*, Philippe Fournier-Viger, Xutao Li\*, Yunming Ye, Xiuqing Hu. AM-ConvGRU: A Spatio-Temporal Model for Typhoon Path Prediction. Neural Computing and Applications, 34, 5905-5921, 2022. (JCR 2, CCF C, IF=5.102) \[[https://link.springer.com/article/10.1007/s00521-021-06724-x paper]\]\[[https://github.com/xuguangning1218/Typhoon_Path code]\]
+. *Guangning Xu*, Kenghong Lin, Xutao Li\*, Yunming Ye\*. SAF-Net: A Spatio-Temporal Deep Learning Method for Typhoon Intensity Prediction. Pattern Recognition Letters, 155, 121-127, 2022. (JCR 2, CCF C, IF=4.757) \[[https://www.sciencedirect.com/science/article/pii/S0167865521004037 paper]\]\[[https://github.com/xuguangning1218/TI_Prediction code]\]
+. Xutao Li, Michael K Ng, *Guangning Xu*, Andy Yip\*. Multi-relational graph convolutional networks: Generalization guarantees and experiments. Neural Networks, 161, 343-358, 2023. (JCR 1, CCF B, IF=9.657) \[[https://www.sciencedirect.com/science/article/pii/S0893608023000576 paper]\]
+. Chuyao Luo, *Guangning Xu*, Xutao Li\*, Yunming Ye\*. The reconstitution predictive network for precipitation nowcasting. Neurocomputing, 507, 1-15, 2022. (JCR 2, CCF C, IF=5.779) \[[https://www.sciencedirect.com/science/article/abs/pii/S0925231222009195 paper]\]\[[https://github.com/luochuyao/RST_LSTM code]\]
+. Zhichao Huang, Xutao Li\*, Yunming Ye\*, Baoquan Zhang, *Guangning Xu*, Wensheng Gan. Multi-view knowledge graph fusion via knowledge-aware attentional graph neural network. Applied Intelligence. 2022. (JCR 2, CCF C, IF=5.086) \[[https://link.springer.com/article/10.1007/s10489-022-03667-1 paper]\]
+
+=== Conference Papers
+. *Guangning Xu*, Jinyang Yang, Jinjin Guo, Zhichao Huang\*, Bowen Zhang\*. Int-GNN: a User Intention Aware Graph Neural Network for Session-Based Recommendation. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023. (CCF B) \[[https://ieeexplore.ieee.org/document/10097031 paper]\]\[[https://github.com/xuguangning1218/IntGNN_ICASSP2023 code]\]
+. Bowen Zhang\*, Daijun Ding, *Guangning Xu*\*, Jinjin Guo, Zhichao Huang, Xu Huang. Twitter Stance Detection via Neural Production Systems. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023. (CCF B) \[[https://ieeexplore.ieee.org/document/10094597 paper]\]
+. Jinjin Guo, Zhichao Huang, *Guangning Xu*, Bowen Zhang, Chaoqun Duan. Knowledge-aware Few Shot Learning for Event Detection from Short Texts. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023. (CCF B) \[[https://ieeexplore.ieee.org/document/10095891 paper]\]
+
+== Service
+=== Academic Service
+- Reviewer of 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
+- Reviewer of 2023 ACM International Conference on Multimedia (ACM MM). 
