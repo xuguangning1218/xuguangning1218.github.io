@@ -1,0 +1,6 @@
+新文章：/assets/ref.bib
+新文章图片:/models/
+更新首页的侧边栏：/_includes/sidebar.html
+首页：_config.yml
+更新about页面、个人信息的内容：/_data/
+更新首页说明和介绍栏：/_pages/home.md
